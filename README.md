@@ -49,3 +49,8 @@ This is a sample `Go` application which connects to Redis. The app increments a 
 
 - Sysctl config for security
   Recommended from https://www.cyberciti.biz/faq/linux-kernel-etcsysctl-conf-security-hardening/
+
+# Test
+git clone https://github.com/kishoreraju2/Redis-counter-app.git
+cd Redis-counter-app
+vagrant up
